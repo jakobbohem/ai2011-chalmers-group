@@ -1,0 +1,1 @@
+This is a project group for the Artificial Intelligence course at Chalmers . the project consists of one demo project and two survey projects in the field of machine learning , natural language processing and planning
